@@ -1,0 +1,10 @@
+# Architecture
+
+## Internal Dependencies
+
+- (no internal resolved imports)
+
+## External Imports
+
+- `main.py` -> `hashlib`
+- `main.py` -> `json`
